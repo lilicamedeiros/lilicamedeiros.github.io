@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://lilicamedeiros.github.io
+title: Lilica
+tagline: 42
+description: Bio Aqui
+paginate: 3
