@@ -3,6 +3,14 @@ published: true
 title: Hello world
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/lilicamedeiros/lilicamedeiros.github.io](http://github.com/lilicamedeiros/lilicamedeiros.github.io). Be nice. Give credit. Share, don't steal :)
-
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+Ne laboris arbitrantur, ubi dolore fore summis doctrina, labore non possumus, 
+fugiat officia nam amet sint, o de ipsum sunt culpa sed nescius et fugiat tempor 
+an aliquip e laboris o nam malis irure ubi commodo. Legam occaecat quo singulis 
+do lorem laborum de tempor. Aut multos mandaremus transferrem qui e cupidatat 
+est mentitum. Non anim irure ipsum officia, hic aliqua sempiternum ex de irure 
+aut malis, ut illum lorem multos deserunt. Fugiat distinguantur aliquip minim 
+admodum si quorum eiusmod do mentitum et deserunt multos amet te summis ex esse 
+ullamco firmissimum ubi eram vidisse fidelissimae, eu quis domesticarum nam 
+quamquam qui consequat ubi deserunt quid deserunt. Aliquip iis tamen ea enim 
+possumus comprehenderit, aut laborum ea cupidatat se noster iudicem 
+exercitation.
